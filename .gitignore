@@ -1,0 +1,4 @@
+*.heapsnapshot
+*.heapsnapshot.gz
+.DS_Store
+node_modules/
